@@ -1,8 +1,6 @@
 # HR_Analytics_Employee_Retention
 Analysing Employee Retention Rates
 
-Machine Learning Lab Assignment
-
 Download employee retention dataset from here:
 https://www.kaggle.com/giripujar/hr-analytics
 1. Now do some exploratory data analysis to figure out which variables have direct and clear impact on employee retention (ie, whether they leave the company or continue to work)
